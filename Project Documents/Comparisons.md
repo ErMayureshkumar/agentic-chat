@@ -1,6 +1,6 @@
-## 📊 Comparison: AgenticChat vs Traditional Chatbots vs Multi-Agent Systems  
+## 📊 Comparison: Agentic-Chat vs Traditional Chatbots vs Multi-Agent Systems  
 
-| Feature / Aspect | 🤖 Traditional Chatbots | 🔗 Generic Multi-Agent Systems | 🚀 **AgenticChat** |
+| Feature / Aspect | 🤖 Traditional Chatbots | 🔗 Generic Multi-Agent Systems | 🚀 **Agentic-Chat** |
 |------------------|------------------------|--------------------------------|---------------------|
 | **Architecture** | Rule-based or single-model pipeline | Multiple agents with limited orchestration | Protocol-driven modular design using **A2A**, **MCP**, and **AG_UI** |
 | **Backend Framework** | Basic SDKs or Node/Python scripts | Custom frameworks | **FastAPI** (async, modular) with **JWT** for secure API handling |
