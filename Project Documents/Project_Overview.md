@@ -4,7 +4,7 @@ AgenticChat represents a **next-generation conversational AI platform** that mov
 
 - 🤝 **Real-time multi-agent collaboration** using A2A protocol  
 - 🧠 **Stateful memory** powered by LangGraph, MongoDB, and Redis  
-- 🛡️ **OAuth2-based authentication** and **JWT authorization**  
+- 🛡️ **JWT authorization**  
 - ⚡ **Protocol-governed workflows** for consistency and interoperability  
 - 🔗 **Modular and extensible design** for easy integration of new agents, APIs, and tools  
 ---

@@ -1,4 +1,4 @@
-# 📑 AgenticChat Table of Contents
+# 📑 Agentic-Chat Table of Contents
 
 This file provides a structured navigation for all project documentation in **Agentic-Chat**.
 

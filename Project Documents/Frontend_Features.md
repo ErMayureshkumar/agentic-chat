@@ -21,7 +21,7 @@ The Streamlit UI provides full lifecycle management for chats, allowing users to
 
 ### 👤 User Management
 
-- **Create User**: Add new users to the system with specific roles and permissions.  
+- **Create User**: Add new users to the system.  
 - **Delete User**: Remove inactive or unauthorized users.  
 - **Update User**: Modify user passwords.  
 

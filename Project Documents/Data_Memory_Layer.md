@@ -1,6 +1,6 @@
 ## 🗂️ Data & Memory Layer
 
-Agentic-Chat relies on a robust **Data & Memory Layer** to maintain state, store user information, and enable fast access for multi-agent interactions.  
+**Agentic-Chat** relies on a robust **Data & Memory Layer** to maintain state, store user information, and enable fast access for multi-agent interactions.  
 This layer ensures that conversations, agent states, and workflow results are persistently and efficiently managed.
 
 ### 🔹 Components
@@ -19,7 +19,7 @@ This layer ensures that conversations, agent states, and workflow results are pe
 
 #### 1️⃣ User Authentication
 - User logs in via **JWT**.  
-- User profile and permissions are fetched from **MongoDB**.  
+- User profile are fetched from **MongoDB**.  
 - Session token cached in **Redis** for fast validation.  
 
 #### 2️⃣ Chat Session Management

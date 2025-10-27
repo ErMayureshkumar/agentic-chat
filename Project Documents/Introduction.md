@@ -9,13 +9,13 @@
 **Agentic-Chat** is a **secure, modular, and intelligent multi-agent chat system** designed to bring together multiple specialized agents under one unified framework.  
 It enables **real-time collaboration**, **context-aware reasoning**, and **protocol-based communication** among agents to handle complex, multi-domain tasks.
 
-Built with **FastAPI**, **JWT**, **LangGraph**, **MongoDB**, **Redis**, and **A2A**, **MCP** and **AG_UI** Protocol, it ensures **stateful**, **secure**, and **scalable** conversational AI operations.
+Built with **FastAPI**, **JWT**, **LangGraph**, **MongoDB**, **Redis**, and **A2A**, **MCP** and **AG_UI** Protocols, it ensures **stateful**, **secure**, and **scalable** conversational AI operations.
 
 ---
 
 ## 🔷 Name & Meaning
 
-**Name:** AgenticChat  
+**Name:** Agentic-Chat  
 
 - **Agentic**: Autonomous, intelligent action  
 - **Chat**: Interactive conversational interface  

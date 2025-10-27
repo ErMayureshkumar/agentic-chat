@@ -1,8 +1,8 @@
 ---
 ## ✨ Backend Features
 
-AgenticChat is designed with **security, modularity, and extensibility** at its core.  
-Here are the standout features that make it a powerful multi-agent framework:
+Agentic-Chat is designed with **security, modularity, and extensibility** at its core.  
+Here are the standout features that make it a powerful multi-agent framework
 
 ---
 
@@ -47,4 +47,4 @@ Here are the standout features that make it a powerful multi-agent framework:
 ---
 
 ✨ **In short:**  
-AgenticChat combines **multi-agent intelligence, guardrails, modular pipelines, LLM extensibility, and intuitive UI** to create a **next-gen conversational AI system**.
+**Agentic-Chat** combines **multi-agent intelligence, guardrails, modular pipelines, LLM extensibility, and intuitive UI** to create a **next-gen conversational AI system**.

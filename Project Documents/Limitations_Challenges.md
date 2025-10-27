@@ -16,7 +16,7 @@ While **Agentic-Chat** provides a robust, modular, and protocol-driven framework
 - Each A2A interaction adds **network hops** and **serialization overhead**, especially in multi-step workflows.  
 - **middleware checks**, and **context retrieval** can contribute to response delays.  
 - **LLM inference** latency directly impacts multi-agent coordination time.  
-- Although **Redis** caching reduces I/O load and **Celery** handles async tasks, excessive chained requests can still create bottlenecks.  
+- Although **Redis** caching reduces I/O load and **Motor** handles async tasks, excessive chained requests can still create bottlenecks.  
 - **Load balancing** and **connection pooling** are necessary to maintain responsiveness at scale.  
 
 ---
@@ -24,8 +24,7 @@ While **Agentic-Chat** provides a robust, modular, and protocol-driven framework
 ### 🔄 Inter-Agent Coordination  
 - **A2A protocol** enables structured communication, but maintaining **task dependencies**, **cyclic prevention**, and **deadlock resolution** is complex.  
 - Conflicts may arise when multiple agents generate divergent answers for a shared user query.  
-- Requires **conflict arbitration**, **consensus mechanisms**, or **priority-based fallback handling**.  
-- Coordinating asynchronous task execution across **Celery workers** and **Redis queues** demands precise orchestration logic.  
+- Requires **conflict arbitration**, **consensus mechanisms**, or **priority-based fallback handling**.   
 
 ---
 
@@ -50,12 +49,12 @@ While **Agentic-Chat** provides a robust, modular, and protocol-driven framework
 - Multi-agent orchestration increases **CPU, GPU, and memory usage** due to parallel inference and shared state updates.  
 - Persistent sessions in **MongoDB** and **LangGraph memory** can lead to **storage bloat** over time.  
 - **Redis caching** mitigates latency but demands careful **TTL (Time-to-Live)** management for stale sessions.  
-- To support growing workloads, horizontal scaling via **FastAPI workers**, **Celery clusters**, and **distributed databases** is required.  
+- To support growing workloads, horizontal scaling via **FastAPI workers** and **distributed databases** is required.  
 - Synchronizing chat and context states across multiple servers adds **replication and consistency** challenges.  
 
 ---
 
 ⚙️ *In summary:*  
-Even with **FastAPI + OAuth2**, **A2A**, **LangGraph**, **MongoDB**, and **Redis**,  
+Even with **FastAPI + JWT**, **A2A**, **LangGraph**, **MongoDB**, and **Redis**,  
 the core challenges of **security governance**, **performance optimization**, **state synchronization**,  
 and **scalable inter-agent orchestration** remain critical engineering areas for future improvement.

@@ -53,10 +53,10 @@ It acts as a **common language** that ensures agents understand tasks the same w
 #### 🎯 Purpose
 - Provides a **structured format** for commands  
 - Ensures **consistency and clarity** when passing tasks to agents  
-- Prevents **misinterpretation** by enforcing required fields (`task_type`, `parameters`, `expected_output`)  
+- Prevents **misinterpretation** by enforcing required fields 
 
 #### 🧩 Key Features
-- ✅ **Structured Commands** → Always include `task_type`, `parameters`, and `expected_output`  
+- ✅ **Structured Commands** → Always include required fields 
 - ✅ **Interoperability** → Works across agents (Math, Weather, Knowledge, etc.)  
 - ✅ **Extensibility** → New MCP modules can be added easily (Finance, Travel, News, etc.)  
 - ✅ **Error Prevention** → Reduces ambiguity in agent communication  

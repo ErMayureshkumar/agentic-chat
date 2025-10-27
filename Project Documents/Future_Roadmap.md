@@ -6,7 +6,7 @@ This roadmap outlines our planned enhancements and long-term strategic vision fo
 ---
 
 ### 🤖 1. Domain-Specific Agents
-- Introduce specialized agents for **Finance, Travel, Health, Education, Legal, and E-commerce** domains.  
+- Introduce planned specialized agents for **Finance, Travel, Health, Education, Legal, and E-commerce** domains.  
 - Each agent will have its own **MCP (Model Context Protocol)** to handle domain-specific workflows.  
 - Example Agents:
   - **Finance Agent** → portfolio tracking, market analysis  

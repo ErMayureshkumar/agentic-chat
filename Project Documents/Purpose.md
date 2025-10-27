@@ -1,6 +1,6 @@
 ## 🎯 Purpose
 
-The goal of **AgenticChat** is to create a **collaborative, context-aware, and intelligent conversational ecosystem** — far beyond what single-agent chatbots can achieve.  
+The goal of **Agentic-Chat** is to create a **collaborative, context-aware, and intelligent conversational ecosystem** — far beyond what single-agent chatbots can achieve.  
 
 It’s ideal for:
 - 💬 Intelligent Personal Assistants  

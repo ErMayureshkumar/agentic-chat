@@ -72,7 +72,7 @@ Scenario: *"What happens when reasoning and planning agents debate a math proble
 
 ---
 
-### 🌐 4. Distributed & Scalable Enterprise Operations *(Upcoming)*  
+### 🌐 4. Distributed & Scalable Enterprise Operations **  
 - Enable **load-balanced agent execution** across distributed nodes.  
 - Use **Redis** for inter-agent messaging and **MongoDB** for persistent storage.  
 - Integrate securely with **OAuth2-protected APIs**.  
