@@ -1,4 +1,4 @@
-# 🤖 AgenticChat
+# 🤖 Agentic-Chat
 
 <p align="center">
   <img src="../assets/logo-1.png" alt="AgenticChat Logo" width="200"/>

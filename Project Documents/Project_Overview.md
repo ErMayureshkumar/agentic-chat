@@ -1,6 +1,6 @@
 ## 🌟 Project Overview
 
-AgenticChat represents a **next-generation conversational AI platform** that moves beyond traditional single-agent chatbots. It’s designed to support:
+Agentic-Chat represents a **next-generation conversational AI platform** that moves beyond traditional single-agent chatbots. It’s designed to support:
 
 - 🤝 **Real-time multi-agent collaboration** using A2A protocol  
 - 🧠 **Stateful memory** powered by LangGraph, MongoDB, and Redis  
