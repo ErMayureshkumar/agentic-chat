@@ -1,12 +1,11 @@
 ## 🚀 Future Roadmap
 
-**Agentic-Chat** is built with **scalability, extensibility, multimodality, and domain specialization** in mind.  
-This roadmap outlines our planned enhancements and long-term strategic vision for evolving **Agentic-Chat** into a truly intelligent multi-agent ecosystem.
+**Agentic-Chat** is built with **scalability, extensibility, multimodality, and domain specialization** in mind. This roadmap outlines our planned enhancements and long-term strategic vision for evolving **Agentic-Chat** into a truly intelligent multi-agent ecosystem.
 
 ---
 
 ### 🤖 1. Domain-Specific Agents
-- Introduce planned specialized agents for **Finance, Travel, Health, Education, Legal, and E-commerce** domains.  
+- Planned specialized agents for **Finance, Travel, Health, Education, Legal, and E-commerce** domains.  
 - Each agent will have its own **MCP (Model Context Protocol)** to handle domain-specific workflows.  
 - Example Agents:
   - **Finance Agent** → portfolio tracking, market analysis  

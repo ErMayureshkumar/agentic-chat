@@ -18,7 +18,7 @@
 | **Scalability** | Limited concurrency | Moderate scaling | **Distributed architecture** (multi-agent network) |
 | **Persistence & Logging** | Minimal | Basic | **MongoDB logs**, **Redis queues**, **LangGraph memory snapshots** |
 | **Analytics & Monitoring** | Not available | Manual tools | Planned **Prometheus/Grafana integration** for observability |
-| **Multimodal Support** | Text only | Some visual/audio agents | Planned support for **Voice, Image, Video** via multimodal MCPs |
+| **Multimodal Support** | Text only | Some visual/audio agents | Planned support for **Voice, Image, Video** |
 | **Personalization** | Static responses | Basic adaptation | **Memory + Feedback loop** for adaptive personalization |
 | **Integration Ecosystem** | Closed, fixed APIs | Limited APIs | **Open MCP Registry** for 3rd-party agent and API extensions |
 | **Use Cases** | FAQs, Support | Research simulations | **Enterprise AI**, **R&D**, **intelligent dashboards**, **workflow automation** |

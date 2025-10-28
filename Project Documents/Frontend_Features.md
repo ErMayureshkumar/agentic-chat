@@ -13,7 +13,7 @@ The Streamlit UI provides full lifecycle management for chats, allowing users to
 - **Archive Chat**: Store old chats in an archive for future reference.  
 - **Share Chat**: Export or securely share chat history with other users or platforms.  
 
-🔹 **Key Benefits**:  
+🧩 **Key Benefits**:  
 - Maintain organized chat history for multiple projects  
 - Easily recover archived conversations  
 - Seamlessly collaborate by sharing chat sessions  

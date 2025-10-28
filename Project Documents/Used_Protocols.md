@@ -9,10 +9,10 @@
 The **Agent-to-Agent Protocol (A2A)** is the backbone of communication inside **Agentic-Chat**.  
 It defines the **rules and mechanisms** through which agents exchange information, delegate tasks, and work together in a coordinated way.  
 
-#### 🔹 Purpose  
-A2A ensures that multiple agents can **collaborate seamlessly** without conflicts, enabling a smooth workflow where each agent contributes its specialized knowledge.  
+#### 🎯 Purpose  
+- A2A ensures that multiple agents can **collaborate seamlessly** without conflicts, enabling a smooth workflow where each agent contributes its specialized knowledge.  
 
-#### 🔹 Key Features  
+#### 🧩 Key Features
 - 📩 **Message Passing** → Agents send and receive structured messages to share results or request input  
 - 🔄 **Task Delegation & Orchestration** → One agent can assign subtasks to another, while A2A coordinates the execution order  
 - 🛡️ **Error Handling & Fallbacks** → If one agent fails, A2A reroutes the task to another available agent  
@@ -72,8 +72,10 @@ It acts as a **common language** that ensures agents understand tasks the same w
 
 ### 3️⃣ AG_UI (Agentic User Interface Protocol)
 
-- **Purpose**: Defines how the user interacts with the agent system  
-- **Key Features**:  
+#### 🎯 Purpose
+-  Defines how the user interacts with the agent system  
+
+#### 🧩 Key Features  
   - Secure intent filtering & guardrails  
   - Converts natural language → structured tasks for Agents
   - Presents agent responses in a user-friendly format  

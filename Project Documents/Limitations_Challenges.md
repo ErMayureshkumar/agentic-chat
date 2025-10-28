@@ -1,6 +1,6 @@
 ## ⚠️ Limitations & Challenges  
 
-While **Agentic-Chat** provides a robust, modular, and protocol-driven framework, it faces several **technical and operational challenges** that must be carefully managed to ensure scalability, reliability, and secure multi-agent collaboration.
+While **Agentic-Chat** provides a **robust**, **modular**, and **protocol-driven framework**, it faces several **technical and operational challenges** that must be carefully managed to ensure **scalability**, **reliability**, and **secure multi-agent collaboration**.
 
 ---
 
@@ -55,6 +55,4 @@ While **Agentic-Chat** provides a robust, modular, and protocol-driven framework
 ---
 
 ⚙️ *In summary:*  
-Even with **FastAPI + JWT**, **A2A**, **LangGraph**, **MongoDB**, and **Redis**,  
-the core challenges of **security governance**, **performance optimization**, **state synchronization**,  
-and **scalable inter-agent orchestration** remain critical engineering areas for future improvement.
+Even with **FastAPI + JWT**, **A2A**, **LangGraph**, **MongoDB**, and **Redis**, the core challenges of **security governance**, **performance optimization**, **state synchronization**, and **scalable inter-agent orchestration** remain critical engineering areas for future improvement.
