@@ -1,6 +1,6 @@
 ## 🔹 Key Highlights
 
-- 🧩 **Multi-Agent Orchestration:** Efficient coordination across Math, Weather, Knowledge, and other domain agents  
+- 🧩 **Multi-Agent Orchestration:** Efficient coordination across Chat, Math, Weather, and Knowledge domain agents  
 - 🔒 **Security & Guardrails:** Intent filtering, data safety, and JWT protection  
 - 🔗 **Protocol-Driven Communication:** A2A, MCP, and AG_UI ensure structured and conflict-free collaboration  
 - 🧠 **Persistent Memory:** LangGraph + Redis manage shared conversation state across agents  

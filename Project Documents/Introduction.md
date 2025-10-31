@@ -23,7 +23,7 @@ Represents a multi-agent platform where commands trigger coordinated actions acr
 
 ---
 
-## 📌 Why AgenticChat?
+## 📌 Why Agentic-Chat?
 
 - 🔒 **Secure** → Guardrails & intent filtering  
 - ⚡ **Modular & Extensible** → Plug new agents easily  
