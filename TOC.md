@@ -19,7 +19,7 @@ This file provides a structured navigation for all project documentation in **Ag
   - [💬 Chatbot & Virtual Assistant](Project%20Documents/Key_Use_Cases.md#chatbot--virtual-assistant)  
   - [🤖 Multi-Agent Workflows](Project%20Documents/Key_Use_Cases.md#multi-agent-workflows)  
   - [🧪 AI Research Sandbox](Project%20Documents/Key_Use_Cases.md#ai-research-sandbox)  
-  - [🌐 Distributed Enterprise Ops (Upcoming)](Project%20Documents/Key_Use_Cases.md#distributed-enterprise-ops-upcoming)  
+  - [🌐 Distributed Enterprise Ops](Project%20Documents/Key_Use_Cases.md#distributed-enterprise-ops-upcoming)  
 - 🛠️ [Tech Stack](Project%20Documents/Tech_Stack.md)  
 - 📦 [Python Dependencies](Project%20Documents/Python_Dependencies.md)  
   - [🔧 Backend](Project%20Documents/Python_Dependencies.md#backend)  

@@ -16,14 +16,10 @@ These libraries are required for agent orchestration, communication, and process
 - ag-ui-protocol – Agentic User Interface protocol library  
 - litellm – Lightweight LLM utilities  
 - transformers – HuggingFace transformers for NLP tasks  
-- pymongo – MongoDB client for Python  
+- motor – Asynchronous MongoDB client for Python, built on top of pymongo  
 - redis – Redis client for Python  
-- torch – PyTorch for deep learning and model inference  
-- datasets – HuggingFace datasets library  
-- evaluate – Evaluation framework for ML/NLP models  
+- datasets – HuggingFace datasets library   
 - PyJWT – JSON Web Token encoding/decoding  
-- sentence_transformers – Embedding generation for text similarity  
-- scikit-learn – Classic machine learning utilities  
 - wolframalpha – Integration with WolframAlpha API  
 - nest-asyncio – Asyncio patching for nested event loops 
 
