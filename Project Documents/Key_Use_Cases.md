@@ -92,4 +92,4 @@ Enterprise Workflow: *“Summarize customer feedback, detect sentiment, and upda
 ---
 
 🔗 **In short:**  
-**Agentic-Chat** is not just a chatbot — it’s a **modular, secure, and stateful multi-agent ecosystem** powered by **LangGraph**, **A2A**, and **FastAPI**, ideal for **enterprise automation**, **intelligent assistants**, and **AI research**.
+**Agentic-Chat** is not just a chatbot — it’s a **modular, secure, and stateful multi-agent ecosystem** powered by **LangGraph**, **A2A**, **MCP**, **AG_UI**, and **FastAPI**, ideal for **enterprise automation**, **intelligent assistants**, and **AI research**.

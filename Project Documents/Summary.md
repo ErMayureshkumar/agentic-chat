@@ -1,13 +1,13 @@
 ## 🎬 Demo Video
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JrShU0Rymrw" target="_blank">
+  <a href="https://youtu.be/MLsBAeKRhYA" target="_blank">
     <img src="https://img.youtube.com/vi/JrShU0Rymrw/0.jpg" alt="Demo Video" width="640">
   </a>
 </p>
 
 ## 🎬 Quick Shorts
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=JrShU0Rymrw" target="_blank">
+  <a href="https://youtu.be/Y1TzrER5N5E" target="_blank">
     <img src="https://img.youtube.com/vi/JrShU0Rymrw/0.jpg" alt="Quick Shorts" width="640">
   </a>
 </p>

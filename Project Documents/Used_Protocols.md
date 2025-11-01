@@ -76,7 +76,7 @@ In Agentic-Chat, **MCP bridges** the logic layer (agents) and the capability lay
 
 | Agent Type | MCP Example | Backend |
 |-------------|-------------|----------|
-| 🧮 Math Agent | Math MCP | Local MCP Server (e.g., SymPy / WolframAlpha) |
+| 🧮 Math Agent | Math MCP | Local MCP Server (e.g., WolframAlpha) |
 | 🌦️ Weather Agent | Weather MCP | Local MCP Server integrating OpenWeather / WeatherAPI / WeatherStack |
 | 📚 Knowledge Agent | Knowledge MCP | Remote MCP Servers (Wikipedia, DuckDuckGo, etc.) |
 
